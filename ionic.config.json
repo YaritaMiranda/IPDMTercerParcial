@@ -1,0 +1,7 @@
+{
+  "name": "TercerParcial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
